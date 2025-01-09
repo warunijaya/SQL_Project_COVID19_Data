@@ -31,7 +31,7 @@ The data is initially stored in two separate excel files, one containing death-r
 
 ### 2.2. Importing Data into SQL Server
 *   A new database named "Portfolio Project" is created in SQL Server .
-*   The two excel files are imported as tables into the "Portfolio Project" database . I used **MySQL Workbench** to ensure the use of the 64-bit version, which prevents errors that can occur when using the 32-bit version .
+*   The two excel files are imported as tables into the "Portfolio Project" database . I used MySQL Workbench.  
 *   The two tables are named `covid deaths` and `covid vaccinations` .
 
 ## 3. Data Exploration and Analysis with SQL
